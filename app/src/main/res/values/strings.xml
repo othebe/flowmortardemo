@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlowMortarDemo</string>
+
+    <string name="timer">Timer</string>
+    <string name="feed">Feed</string>
+    <string name="info">Info</string>
+    <string name="start">Start</string>
+</resources>
